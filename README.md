@@ -40,6 +40,7 @@ During the training, gradient descent is employed to reduce the content and feat
 
 
 ### Paper Reference
+
 - **Title**: A Neural Algorithm of Artistic Style
 - **Authors**: Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge
 - **Link**: [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
