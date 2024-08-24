@@ -5,17 +5,19 @@ When Deep Learning meets Van Gough
 This repository implements the paper **"A Neural Algorithm of Artistic Style"** by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge.
 
 <p align="center">
-  <img src="images/Colombo_night_sky.jpg" alt="Content Image" width="45%"/>
-  <img src="images/starry_night.webp" alt="Style Image" width="45%"/>
+  <b>Content Image</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>Style Image</b> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <b>Output Image</b>
 </p>
 
 <p align="center">
-  <img src="images/output_image.png" alt="Output Image" width="90%"/>
+  <img src="images/Colombo_night_sky.jpg" alt="Content Image" width="30%"/>
+  <img src="images/starry_night.webp" alt="Style Image" width="30%"/>
+  <img src="images/output_image.png" alt="Output Image" width="30%"/>
 </p>
 
 <p align="center">
-  <b>Figure:</b> (Left) Content Image, (Right) Style Image, (Below) Output Image
+  <b>Figure:</b> (Left to Right) Content Image, Style Image, Output Image
 </p>
+
 
 ## Overview
 
