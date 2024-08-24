@@ -10,7 +10,7 @@ This repository implements the paper **"A Neural Algorithm of Artistic Style"** 
 
 <p align="center">
   <img src="images/Colombo_night_sky.jpg" alt="Content Image" width="30%"/>
-  <img src="images/starry_night.webp" alt="Style Image" width="30%"/>
+  <img src="images/starry_night.webp" alt="Feature Image" width="30%"/>
   <img src="images/output_image.png" alt="Output Image" width="30%"/>
 </p>
 
