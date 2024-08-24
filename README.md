@@ -15,7 +15,7 @@ This repository implements the paper **"A Neural Algorithm of Artistic Style"** 
 </p>
 
 <p align="center">
-  <b>Figure:</b> (Left to Right) Content Image, Style Image, Output Image
+  <b>Figure:</b> (Left to Right) Content Image, Feature Image, Output Image
 </p>
 
 
